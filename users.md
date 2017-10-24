@@ -503,4 +503,4 @@
   Place: India  
   Bio: Learning Git Commands, web Developer, student  
   GitHub: [ZatinMe](https://github.com/ZatinMe)  
-  Facebook: [Zatin Meraz] (https://www.facebook.com/meraz.zatin)
+  Facebook: [Zatin Meraz](https://www.facebook.com/meraz.zatin)
